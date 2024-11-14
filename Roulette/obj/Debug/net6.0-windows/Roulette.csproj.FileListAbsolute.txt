@@ -1,0 +1,40 @@
+C:\Users\akhru\My Drive\Ul 5\Roulette\Roulette\bin\Debug\net6.0-windows\Roulette.exe
+C:\Users\akhru\My Drive\Ul 5\Roulette\Roulette\bin\Debug\net6.0-windows\Roulette.deps.json
+C:\Users\akhru\My Drive\Ul 5\Roulette\Roulette\bin\Debug\net6.0-windows\Roulette.runtimeconfig.json
+C:\Users\akhru\My Drive\Ul 5\Roulette\Roulette\bin\Debug\net6.0-windows\Roulette.dll
+C:\Users\akhru\My Drive\Ul 5\Roulette\Roulette\bin\Debug\net6.0-windows\Roulette.pdb
+C:\Users\akhru\My Drive\Ul 5\Roulette\Roulette\obj\Debug\net6.0-windows\Roulette.csproj.AssemblyReference.cache
+C:\Users\akhru\My Drive\Ul 5\Roulette\Roulette\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\akhru\My Drive\Ul 5\Roulette\Roulette\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\akhru\My Drive\Ul 5\Roulette\Roulette\obj\Debug\net6.0-windows\Roulette_MarkupCompile.cache
+C:\Users\akhru\My Drive\Ul 5\Roulette\Roulette\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\akhru\My Drive\Ul 5\Roulette\Roulette\obj\Debug\net6.0-windows\Roulette.g.resources
+C:\Users\akhru\My Drive\Ul 5\Roulette\Roulette\obj\Debug\net6.0-windows\Roulette.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akhru\My Drive\Ul 5\Roulette\Roulette\obj\Debug\net6.0-windows\Roulette.AssemblyInfoInputs.cache
+C:\Users\akhru\My Drive\Ul 5\Roulette\Roulette\obj\Debug\net6.0-windows\Roulette.AssemblyInfo.cs
+C:\Users\akhru\My Drive\Ul 5\Roulette\Roulette\obj\Debug\net6.0-windows\Roulette.csproj.CoreCompileInputs.cache
+C:\Users\akhru\My Drive\Ul 5\Roulette\Roulette\obj\Debug\net6.0-windows\Roulette.dll
+C:\Users\akhru\My Drive\Ul 5\Roulette\Roulette\obj\Debug\net6.0-windows\refint\Roulette.dll
+C:\Users\akhru\My Drive\Ul 5\Roulette\Roulette\obj\Debug\net6.0-windows\Roulette.pdb
+C:\Users\akhru\My Drive\Ul 5\Roulette\Roulette\obj\Debug\net6.0-windows\Roulette.genruntimeconfig.cache
+C:\Users\akhru\My Drive\Ul 5\Roulette\Roulette\obj\Debug\net6.0-windows\ref\Roulette.dll
+C:\Work\Roulette\Roulette\bin\Debug\net6.0-windows\Roulette.exe
+C:\Work\Roulette\Roulette\bin\Debug\net6.0-windows\Roulette.deps.json
+C:\Work\Roulette\Roulette\bin\Debug\net6.0-windows\Roulette.runtimeconfig.json
+C:\Work\Roulette\Roulette\bin\Debug\net6.0-windows\Roulette.dll
+C:\Work\Roulette\Roulette\bin\Debug\net6.0-windows\Roulette.pdb
+C:\Work\Roulette\Roulette\obj\Debug\net6.0-windows\Roulette.csproj.AssemblyReference.cache
+C:\Work\Roulette\Roulette\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Work\Roulette\Roulette\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Work\Roulette\Roulette\obj\Debug\net6.0-windows\App.g.cs
+C:\Work\Roulette\Roulette\obj\Debug\net6.0-windows\Roulette_MarkupCompile.cache
+C:\Work\Roulette\Roulette\obj\Debug\net6.0-windows\Roulette.g.resources
+C:\Work\Roulette\Roulette\obj\Debug\net6.0-windows\Roulette.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Roulette\Roulette\obj\Debug\net6.0-windows\Roulette.AssemblyInfoInputs.cache
+C:\Work\Roulette\Roulette\obj\Debug\net6.0-windows\Roulette.AssemblyInfo.cs
+C:\Work\Roulette\Roulette\obj\Debug\net6.0-windows\Roulette.csproj.CoreCompileInputs.cache
+C:\Work\Roulette\Roulette\obj\Debug\net6.0-windows\Roulette.dll
+C:\Work\Roulette\Roulette\obj\Debug\net6.0-windows\refint\Roulette.dll
+C:\Work\Roulette\Roulette\obj\Debug\net6.0-windows\Roulette.pdb
+C:\Work\Roulette\Roulette\obj\Debug\net6.0-windows\Roulette.genruntimeconfig.cache
+C:\Work\Roulette\Roulette\obj\Debug\net6.0-windows\ref\Roulette.dll
